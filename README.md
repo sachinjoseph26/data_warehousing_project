@@ -1,1 +1,8 @@
-# data_warehousing_project
+# END TO END DATA WAREHOUSING PROJECT
+
+## TOOLS & TECHNOLOGIES:
+    - SQL Server
+    - Azure
+    - Power BI
+    - ETL
+    - DATA ANALYTICS
